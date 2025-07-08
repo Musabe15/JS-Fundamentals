@@ -1,1 +1,1 @@
-# JS-Fundamentals
+# MY WEEK 3 PROJECT ABOUT JavaScript
