@@ -6,7 +6,7 @@ if(isNaN(x)){
   for(let i = 0; i < x; i++){
     let hor ="";
     for(let j = 0; j < x; j++){
-      hor += "x";
+      hor += "X";
     }
     console.log(hor);
   }
